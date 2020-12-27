@@ -227,10 +227,10 @@ io_utils
    timeit
    timeout
 
-string
-------
+string_utils
+------------
 
-.. currentmodule:: gamla.string
+.. currentmodule:: gamla.string_utils
 
 .. autosummary::
    replace_in_text

@@ -10,7 +10,7 @@ from .functional_generic import *
 from .graph import *
 from .graph_async import *
 from .io_utils import *
-from .string import *
+from .string_utils import *
 from .tree import *
 
 map = functional_generic.curried_map
